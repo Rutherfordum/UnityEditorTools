@@ -10,4 +10,4 @@ UnityAnimatorTools - это инструмент способный сгенер
 Выберите свой `AnimatorControoler` правой кнопкой мыши, в раскрывающемся меню выберите `Generate Class From AnimatorController` 
 
 Пример использования
-![Alt Text](https://github.com/Rutherfordum/Test_Task_Startegy_with_Pattern/blob/main/Video%20Resources/2024-04-24-16-54-48.gif)
+![Alt Text](https://github.com/Rutherfordum/UnityAnimatorTools/blob/main/VideoResources/2024-04-26-17-51-33.gif)
