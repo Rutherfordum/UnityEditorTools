@@ -1,0 +1,12 @@
+using UnityEngine;
+
+public class #SCRIPTNAME#
+{
+    private Animator _animator;
+
+    public #SCRIPTNAME#(Animator animator)
+    {
+        _animator = animator;
+    }
+
+}
