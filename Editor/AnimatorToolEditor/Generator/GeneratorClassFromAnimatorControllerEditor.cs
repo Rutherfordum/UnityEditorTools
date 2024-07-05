@@ -13,6 +13,7 @@ using UnityEngine;
 /// </summary>
 namespace AnimatorToolEditor
 {
+#if UNITY_EDITOR
     public class GeneratorClassFromAnimatorControllerEditor
     {
         private static readonly string PATH_TEMPLATE = $"{Application.dataPath}/Editor/AnimatorToolEditor/Template/GeneratedAnimatorClassTemplate";
@@ -65,4 +66,5 @@ namespace AnimatorToolEditor
             return Selection.activeObject is AnimatorController;
         }
     }
+#endif
 }
