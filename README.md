@@ -8,7 +8,9 @@ AnimatorToolEditor  - это инструмент для создания кла
 AddressablesToolEditor  - это инструмент для создания класс с свойствами(ключами) AddressablesGroup. Он упращает жизнь когда у вас очень много обьектов в AddressablesGroup и сокращает время на создания класса с ключами для их загрузки.
 
 ## Порядок установки
-Просто клонируйте себе этот проект [UnityEditorTools](https://github.com/Rutherfordum/UnityEditorTools) и перенесите папку `Editor` в свой проект Unity папку `Assets`.
+Есть два варанта:
+Первый, скачать нужный пакет *.unitypackage из [releases](https://github.com/Rutherfordum/UnityEditorTools/releases) и добавить в свой проект.
+Второй, установка через Unity Package Manager / Add package from git URL: https://github.com/Rutherfordum/UnityEditorTools
 
 ## Как пользоваться AnimatorToolEditor
 Выберите свой `AnimatorControoler` правой кнопкой мыши, в раскрывающемся меню выберите `Generate Class From AnimatorController` 
