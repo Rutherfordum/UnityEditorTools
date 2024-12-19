@@ -10,7 +10,7 @@ AddressablesToolEditor  - это инструмент для создания к
 ## Порядок установки
 Есть два варанта:
 Первый, скачать нужный пакет *.unitypackage из [releases](https://github.com/Rutherfordum/UnityEditorTools/releases) и добавить в свой проект.
-Второй, установка через Unity Package Manager / Add package from git URL: https://github.com/Rutherfordum/UnityEditorTools
+\nВторой, установка через Unity Package Manager / Add package from git URL: https://github.com/Rutherfordum/UnityEditorTools
 
 ## Как пользоваться AnimatorToolEditor
 Выберите свой `AnimatorControoler` правой кнопкой мыши, в раскрывающемся меню выберите `Generate Class From AnimatorController` 
