@@ -1,0 +1,25 @@
+{
+  "name": "com.rutherfordum.unity-editor-tools",
+  "displayName": "UnityEditorTools",
+  "version": "1.0.0",
+  "description": "UnityEditorTools is a set of tools that can automate routine tasks to speed up development. At the moment it contains two tools for generating classes with Addressables and AnimatorController data.\n\nAnimatorToolEditor is a tool for creating a class with AnimatorController properties. It simplifies life when you have a lot of properties in the animator and reduces the time for creating a class manually.\n\nAddressablesToolEditor is a tool for creating a class with AddressablesGroup properties (keys). It simplifies life when you have a lot of objects in the AddressablesGroup and reduces the time for creating a class with keys for loading them.",
+  
+  "author": {
+        "name": "Rutherfordum",
+        "url": "https://github.com/Rutherfordum"
+    },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Rutherfordum/UnityEditorTools"
+  },
+  "dependencies": {
+        "com.unity.addressables": "1.19.19"
+    },
+  "keywords": [
+        "unity",
+        "tool",
+        "editor"
+  ],
+  "category":"Tools",
+  "license": "MIT License"
+}
